@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 16,
+    "files.exclude": 
+    {
+        "**/*.out": true,
+        "**/*.dSYM": true,
+    },
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+}
+
